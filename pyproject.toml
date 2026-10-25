@@ -1,0 +1,9 @@
+[project]
+name = "mini-duplicate-line-finder"
+version = "0.1.0"
+description = "Reports repeated non-empty lines and how many times each appears."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
